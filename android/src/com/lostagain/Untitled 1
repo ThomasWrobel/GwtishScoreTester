@@ -1,0 +1,7 @@
+Notes;
+Android can be fiddly to compile, the following was successfully;
+- everything on Java 1.7
+- gwtish compiled to a jar in /libs directory
+- core doesnt use jar, however, but refrances GWTish project in eclipse
+
+might complain if resources are duplicated
